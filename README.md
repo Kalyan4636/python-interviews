@@ -29,6 +29,8 @@ Contributions are welcome! If you have additional Python code examples, coding c
 This repository is licensed under the [MIT License](LICENSE).
 
 ## Let's Connect
-If you have any questions, suggestions, or just want to say hi, feel free to reach out! You can contact the repository maintainer [Your Name] via [email](mailto:your.email@example.com) or connect on [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile).
+If you have any questions, suggestions, or just want to say hi, feel free to reach out! You can contact the repository maintainer [ADITYA KALYAN] via Gmail on [ adityakalyanbscc@gmail.com ] or connect on LINKEDIN ON  
+[linkedin.com/in/aditya-kalyan-08b9021b0] 
+
 
 Happy coding! 🚀
